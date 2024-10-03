@@ -10,7 +10,7 @@ const Hero = () => {
           <div className="w-min">
             <h1 className="text-5xl font-bold leading-tight">
               <span className="relative z-20 before:w-[120%] before:h-full before:-z-10 before:bg-white before:bottom-1 before:-left-2 before:absolute before:[clip-path:polygon(0%_10%,100%_0%,100%_90%,0%_100%)]">
-                LET'S
+                LETS
               </span>{" "}
               EXPLORE{" "}
               <span className="relative z-20 before:w-[120%] before:h-full before:-z-10 before:bg-yellow-300 before:bottom-1 before:-left-2 before:absolute before:[clip-path:polygon(0%_10%,100%_0%,100%_90%,0%_100%)]">
